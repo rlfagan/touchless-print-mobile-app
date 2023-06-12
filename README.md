@@ -235,6 +235,7 @@ and is available at
 <https://github.com/generalmotors/touchless-print-mobile-app>
 
 ![Creative Commons License](./media/image2.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Ftouchless-print-mobile-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Ftouchless-print-mobile-app?ref=badge_shield)
 
 This documentation is licensed under a Creative Commons
 Attribution-NoDerivatives 4.0 International License.
@@ -242,3 +243,7 @@ Attribution-NoDerivatives 4.0 International License.
 Attribution: Copyright 2020 General Motors LLC
 
 QR Code is a registered trademark of DENSO WAVE INCORPORATED.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Ftouchless-print-mobile-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Ftouchless-print-mobile-app?ref=badge_large)
